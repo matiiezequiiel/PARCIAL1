@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1589246348 source:c:\users\matii\desktop\parcial\1 parcial parte 2\1 parcial parte 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1589843182 source:c:\users\matii\desktop\parcial\1 parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Clientes-Mascotas.h"
+
+1589838671 source:c:\users\matii\desktop\parcial\1 parcial\clientes.c
+	"Clientes.h"
+	"Validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1589837144 c:\users\matii\desktop\parcial\1 parcial\clientes.h
+
+1589843818 c:\users\matii\desktop\parcial\1 parcial\mascotas.h
+
+1589837125 c:\users\matii\desktop\parcial\1 parcial\validaciones.h
+
+1589842107 source:c:\users\matii\desktop\parcial\1 parcial\clientes-mascotas.c
+	"Clientes-Mascotas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1589840254 c:\users\matii\desktop\parcial\1 parcial\clientes-mascotas.h
+	"Clientes.h"
+	"Mascotas.h"
+	"Validaciones.h"
+
+1589817471 source:c:\users\matii\desktop\parcial\1 parcial\validaciones.c
+	"Validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1589843154 source:c:\users\matii\desktop\parcial\1 parcial\mascotas.c
+	"Mascotas.h"
+	"Validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

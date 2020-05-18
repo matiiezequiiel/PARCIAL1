@@ -1,0 +1,21 @@
+typedef struct
+{
+    char nombre[20];
+    char tipo[20];
+    char raza[20];
+    int edad;
+    float peso;
+    char sexo;
+    int idMascota;
+    int idDelDuenio;
+    int estado;
+
+}eMascota;
+
+void hardcodearMascotas(eMascota[] ,int);
+int buscarLibreArrayMascota(eMascota[] ,int);
+int bajaMascota(eMascota[] ,int,int);
+int modificarMascota(eMascota[] ,int,int);
+int menuModificaciones(eMascota[] ,int);
+void initMascotas(eMascota[] ,int);
+safd
